@@ -1,0 +1,3 @@
+test:
+  pre:
+    - bash bash_test.sh will > $CIRCLE_ARTIFACTS
